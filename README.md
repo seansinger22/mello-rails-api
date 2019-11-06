@@ -1,24 +1,7 @@
-# README
+# Mello Rails API  App
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+I built this Trello clone app to practice creating a javascript heavy rails ap using an API.  It was great practice, and I learned a lot especially about Javascript.  You can see it also does a pretty good job mimicing the official Trello app.
 
-Things you may want to cover:
+<img src="screenshot.png" alt="App Screenshot">
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+[Link to Mello](https://mello-sean-singer.herokuapp.com/)
